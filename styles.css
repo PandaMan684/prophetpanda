@@ -1,0 +1,24 @@
+body {
+    background-color:#2C3E50;
+    background-image: url("PBW.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+p {
+    color: #BDC3C7;
+    font-family: Verdana;
+    font-size: 42px;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+#center {
+    margin-top: 100px;
+}
+i {
+    color: #ECF0F1;
+    vertical-align: bottom;
+}
